@@ -1,4 +1,4 @@
-/ GreensKiosk.js
+
 let products = [
     {
         name: 'Mangoes',
