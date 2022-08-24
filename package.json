@@ -1,0 +1,24 @@
+{
+  "name": "JSON",
+  "version": "1.0.0",
+  "main": "GreensKiosk.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odoyo-Queenter/API-Web-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odoyo-Queenter/API-Web-Server/issues"
+  },
+  "homepage": "https://github.com/Odoyo-Queenter/API-Web-Server#readme",
+  "description": ""
+}
